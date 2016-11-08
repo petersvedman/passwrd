@@ -1,0 +1,18 @@
+.display-block {
+    display: inline;
+    margin-right: 100px;
+    }
+    
+.mainTitle {
+    font-size: 36px;
+    font-family: monospace;
+}
+
+.contains {
+    font-size: 18px;
+    font-family: monospace;
+}
+
+p {
+    font-size: 16px;
+}
